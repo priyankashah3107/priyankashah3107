@@ -2,9 +2,9 @@
 <h3 align="center">I am pursuing a Bachelor of Technology, a final year student. I love to learn and explore new technologies, besides this, I am also interested in cosmology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankashah3107&label=Profile%20views&color=0e75b6&style=flat" alt="priyankashah3107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankashah3107" alt="priyankashah3107" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankashah3107" alt="priyankashah3107" /></a> </p> 
 
-<p align="left"> <a href="https://twitter.com/priyankashah317" target="blank"><img src="https://img.shields.io/twitter/follow/priyankashah317?logo=twitter&style=for-the-badge" alt="priyankashah317" /></a> </p>
+ <!-- <p align="left"> <a href="https://twitter.com/priyankashah317" target="blank"><img src="https://img.shields.io/twitter/follow/priyankashah317?logo=twitter&style=for-the-badge" alt="priyankashah317" /></a> </p> -->
 
 - 🌱 I’m currently learning **web Development and Data Structures**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priyankashah317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankashah317" height="30" width="40" /></a>
+<!--  <a href="https://twitter.com/priyankashah317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankashah317" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/priyankashah317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyankashah317" height="30" width="40" /></a> -->
 </p>
