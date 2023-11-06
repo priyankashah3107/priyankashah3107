@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Shah</h1>
-<h3 align="center">I am pursuing a Bachelor of Technology, a final year student. I love to learn and explore new technologies, besides this, I am also interested in cosmology.</h3>
+<h3 align="center">"I am a final year Bachelor of Technology student with a passion for learning and exploring new technologies. Additionally, I hold a keen interest in cosmology."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankashah3107&label=Profile%20views&color=0e75b6&style=flat" alt="priyankashah3107" /> </p>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankashah3107" alt="priyankashah3107" /></a> </p> 
