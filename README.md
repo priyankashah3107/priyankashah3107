@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--  <a href="https://twitter.com/priyankashah317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankashah317" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-shah-6ab9a31b3/" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/priyankashah317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyankashah317" height="30" width="40" /></a> -->
 </p>
 
